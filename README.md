@@ -45,11 +45,11 @@ graph LR
     C --> D[Loops]
     D --> E[Functions]
     
-    style A fill:#e1f5fe
-    style B fill:#e8f5e3
-    style C fill:#fff3e0
-    style D fill:#fce4ec
-    style E fill:#f3e5f5
+    style A fill:red
+    style B fill:green
+    style C fill:orange
+    style D fill:purple
+    style E fill:blue
 ```
 
 | Priority | Topic | DSA Application | Time |
