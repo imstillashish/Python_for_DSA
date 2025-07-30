@@ -54,35 +54,35 @@ graph LR
 
 | Priority | Topic | DSA Application | Time |
 |----------|-------|-----------------|------|
-| 🔥 **CRITICAL** | [Variables ❎](#2-variables-) | Store problem inputs, counters | 30 min |
-| 🔥 **CRITICAL** | [Type Casting 💱](#3-type-casting-) | Handle different input types | 20 min |
-| 🔥 **CRITICAL** | [User Input ⌨️](#4-user-input-) | Read test cases, interactive problems | 15 min |
-| 🔥 **CRITICAL** | [If Statements 🤔](#6-if-statements-) | Conditional logic in algorithms | 45 min |
-| 🔥 **CRITICAL** | [Loops 🔁](#13-for-loops-) | Iterate through data structures | 60 min |
-| 🔥 **CRITICAL** | [Functions 📞](#19-functions-) | Modular code, recursive solutions | 45 min |
+| 🔥 **CRITICAL** | [Variables ❎](Python_for_DSA.md) | Store problem inputs, counters | 30 min |
+| 🔥 **CRITICAL** | [Type Casting 💱](Python_for_DSA.md) | Handle different input types | 20 min |
+| 🔥 **CRITICAL** | [User Input ⌨️](Python_for_DSA.md) | Read test cases, interactive problems | 15 min |
+| 🔥 **CRITICAL** | [If Statements 🤔](Python_for_DSA.md) | Conditional logic in algorithms | 45 min |
+| 🔥 **CRITICAL** | [Loops 🔁](Python_for_DSA.md) | Iterate through data structures | 60 min |
+| 🔥 **CRITICAL** | [Functions 📞](Python_for_DSA.md) | Modular code, recursive solutions | 45 min |
 
 ### 🏗️ **Phase 2: Data Structure Mastery** (Days 8-14)
 *Core data structures for algorithm implementation*
 
 | Priority | Topic | DSA Application | Time |
 |----------|-------|-----------------|------|
-| 🔥 **CRITICAL** | [Lists, Sets, Tuples 🍎](#15-lists-sets-and-tuples-) | Arrays, dynamic programming, graphs | 90 min |
-| 🔥 **CRITICAL** | [Dictionaries 📙](#17-dictionaries-) | Hash maps, frequency counting | 60 min |
-| 🔥 **CRITICAL** | [String Methods 〰️](#9-string-methods-) | String algorithms, pattern matching | 45 min |
-| 🔥 **CRITICAL** | [2D Collections ⬜](#16-2d-collections-) | Matrices, grids, dynamic programming | 60 min |
-| ⚡ **HIGH** | [List Comprehensions 📃](#25-list-comprehensions-) | Concise data transformation | 30 min |
-| ⚡ **HIGH** | [Membership Operators 🔎](#24-membership-operators-) | Fast lookups, existence checks | 15 min |
+| 🔥 **CRITICAL** | [Lists, Sets, Tuples 🍎](Python_for_DSA.md) | Arrays, dynamic programming, graphs | 90 min |
+| 🔥 **CRITICAL** | [Dictionaries 📙](Python_for_DSA.md) | Hash maps, frequency counting | 60 min |
+| 🔥 **CRITICAL** | [String Methods 〰️](Python_for_DSA.md) | String algorithms, pattern matching | 45 min |
+| 🔥 **CRITICAL** | [2D Collections ⬜](Python_for_DSA.md) | Matrices, grids, dynamic programming | 60 min |
+| ⚡ **HIGH** | [List Comprehensions 📃](Python_for_DSA.md) | Concise data transformation | 30 min |
+| ⚡ **HIGH** | [Membership Operators 🔎](Python_for_DSA.md) | Fast lookups, existence checks | 15 min |
 
 ### 🎓 **Phase 3: Advanced Concepts** (Days 15-21)
 *Advanced features for complex algorithms*
 
 | Priority | Topic | DSA Application | Time |
 |----------|-------|-----------------|------|
-| ⚡ **HIGH** | [*args & **kwargs 📦](#22-args--kwargs-) | Flexible function signatures | 30 min |
-| ⚡ **HIGH** | [Exception Handling 🚦](#34-exception-handling-) | Robust code, edge case handling | 45 min |
-| 📚 **MEDIUM** | [OOP Basics 🚗](#30-python-object-oriented-programming-) | Complex data structures | 60 min |
-| 📚 **MEDIUM** | [Inheritance 👨‍👦‍👦](#32-inheritance-) | Advanced data structure implementations | 45 min |
-| 🎯 **BONUS** | [Modules 📨](#27-modules-) | Code organization, libraries | 30 min |
+| ⚡ **HIGH** | [*args & **kwargs 📦](Python_for_DSA.md) | Flexible function signatures | 30 min |
+| ⚡ **HIGH** | [Exception Handling 🚦](Python_for_DSA.md) | Robust code, edge case handling | 45 min |
+| 📚 **MEDIUM** | [OOP Basics 🚗](Python_for_DSA.md) | Complex data structures | 60 min |
+| 📚 **MEDIUM** | [Inheritance 👨‍👦‍👦](Python_for_DSA.md) | Advanced data structure implementations | 45 min |
+| 🎯 **BONUS** | [Modules 📨](Python_for_DSA.md) | Code organization, libraries | 30 min |
 
 ---
 
@@ -94,10 +94,10 @@ graph LR
 <summary>📊 <strong>Arrays & Lists</strong></summary>
 
 **Essential Python Skills:**
-- [Lists, Sets, Tuples 🍎](#15-lists-sets-and-tuples-) - Array operations
-- [For Loops 🔁](#13-for-loops-) - Iteration patterns  
-- [List Comprehensions 📃](#25-list-comprehensions-) - Transformations
-- [2D Collections ⬜](#16-2d-collections-) - Matrix problems
+- [Lists, Sets, Tuples 🍎](Python_for_DSA.md) - Array operations
+- [For Loops 🔁](Python_for_DSA.md) - Iteration patterns  
+- [List Comprehensions 📃](Python_for_DSA.md) - Transformations
+- [2D Collections ⬜](Python_for_DSA.md) - Matrix problems
 
 **Common Patterns:**
 ```python
@@ -119,9 +119,9 @@ for i in range(len(matrix)):
 <summary>🔗 <strong>Linked Lists</strong></summary>
 
 **Essential Python Skills:**
-- [OOP Basics 🚗](#30-python-object-oriented-programming-) - Node classes
-- [Functions 📞](#19-functions-) - Recursive operations
-- [Conditional Logic 🤔](#6-if-statements-) - Null checks
+- [OOP Basics 🚗](Python_for_DSA.md) - Node classes
+- [Functions 📞](Python_for_DSA.md) - Recursive operations
+- [Conditional Logic 🤔](Python_for_DSA.md) - Null checks
 
 **Implementation Pattern:**
 ```python
@@ -136,10 +136,10 @@ class ListNode:
 <summary>🌳 <strong>Trees & Graphs</strong></summary>
 
 **Essential Python Skills:**
-- [Dictionaries 📙](#17-dictionaries-) - Adjacency lists
-- [Sets](#15-lists-sets-and-tuples-) - Visited tracking
-- [Recursion (Functions)](#19-functions-) - Tree traversals
-- [2D Collections](#16-2d-collections-) - Grid graphs
+- [Dictionaries 📙](Python_for_DSA.md) - Adjacency lists
+- [Sets](Python_for_DSA.md) - Visited tracking
+- [Recursion (Functions)](Python_for_DSA.md) - Tree traversals
+- [2D Collections](Python_for_DSA.md) - Grid graphs
 
 **Graph Representation:**
 ```python
@@ -184,9 +184,9 @@ dp = [[0] * n for _ in range(m)]
 <summary>🔍 <strong>Searching & Sorting</strong></summary>
 
 **Essential Python Skills:**
-- [Arithmetic & Math 📐](#5-arithmetic--math-) - Binary search calculations
-- [While Loops ♾️](#12-while-loops-) - Search algorithms
-- [List Methods](#15-lists-sets-and-tuples-) - Built-in sorting
+- [Arithmetic & Math 📐](Python_for_DSA.md) - Binary search calculations
+- [While Loops ♾️](Python_for_DSA.md) - Search algorithms
+- [List Methods](Python_for_DSA.md) - Built-in sorting
 
 **Binary Search Template:**
 ```python
@@ -476,7 +476,7 @@ Before you start solving DSA problems, make sure you can:
 
 *"The best time to plant a tree was 20 years ago. The second best time is now."*
 
-**Start with [Variables ❎](#2-variables-) and work your way up!**
+**Start with [Variables ❎](Python_for_DSA.md) and work your way up!**
 
 ---
 
